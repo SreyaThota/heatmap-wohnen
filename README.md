@@ -2,7 +2,7 @@
 
 A team project for **Climathon 2026 at BTU Cottbus-Senftenberg** (team of four).
 
-**Live demo:** _link added after deployment_
+**Live demo:** https://heatmap-wohnen-eta.vercel.app
 
 ## Idea
 Heat waves are a health risk inside apartments, not only outdoors. HeatMap.Wohnen is a web-based, hardware-free concept that gives each apartment a **heat-stress score (HSI, 0–100)**, so German property managers can see which units are most at risk and which retrofits help most.
